@@ -1,13 +1,19 @@
-# Nut Encyclopedia
+# ALMONDS! Nut Encyclopedia
 
-This is the main project planned for the ALMONDS repository.
+A pop-art educational field guide to tree nuts, peanuts, and edible seeds.
 
-## Planned scope
-- Nut profiles with common and botanical names
-- Nutrition information with clearly stated serving sizes and credible sources
-- Culinary uses, storage, and preparation
-- Allergy and cross-contamination notes
-- Search and filters by nut type and topic
+## Features
+- Searchable and filterable nut and seed guide
+- Nutrition and food-science information
+- Interactive educational content
+- Separate site-information page covering privacy, terms, licensing, and credits
 
-## Current status
-Planning stage. The encyclopedia interface and researched entries have not yet been implemented. Nutrition and allergy information should be checked against reliable sources before publication.
+## Run locally
+Open `index.html` in a modern browser. The site is a static HTML page and does not require a backend or API key.
+
+## Files
+- `index.html` — main encyclopedia
+- `legal.html` — privacy policy, terms, licence, user agreement, and credits
+
+## Accuracy note
+Nutrition figures are approximate and vary by variety, brand, processing, and serving size. This educational project is not medical or dietary advice.
